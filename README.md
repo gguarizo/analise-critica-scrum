@@ -1,4 +1,4 @@
-![scrum](https://github.com/user-attachments/assets/6809438e-51ef-48e6-81cf-8c3e1988dd7c)# Análise Crítica sobre aplicação do Scrum - Expansão Smart Fit / Bio Ritmo
+# Análise Crítica sobre aplicação do Scrum - Expansão Smart Fit / Bio Ritmo
 
 Trabalhei por 3 anos na área de Tecnologia e Informação da Smart Fit (SmartTech), onde a Bio Ritmo e NATION CT também fazem parte da rede de academias Smart Fit, gostaria de trazer um case de sucesso que pude
 trabalhar na condução do projeto e participação ativa e constante até a entrega final.
@@ -6,6 +6,8 @@ trabalhar na condução do projeto e participação ativa e constante até a ent
 O Projeto de Expansão de Unidades no sistema Oracle ERP Cloud e banco de dados OIC teve início em julho de 2024 e finalização em janeiro de 2025, utilizando o Scrum na condução e entrega do projeto com cerimônias constantes entre PO e Stakeholders, entregas constantes de atividades nas Sprint referente a carga de cadastro de unidades no sistema Oracle ERP Cloud, cargas de parametrizações específicas, cargas de INSERT's referente a criações de unidades no banco de dados OIC do Oracle, garantindo a integração com os sistemas front (SmartSystem - Totem, BioSystem, EVO), validação com intermediações entre consultorias parceiras (Oracle, KPMG, Peloton TRI, Synchro, Gesplan) e implementações nos ambientes de homologação e produção.
 
 O Scrum possibilitou as entregas de constante, dinâmica e adequando sempre que necessário as entregas de acordo com alinhamentos fornecidos pelo Product Owner (PO), possibilitando grandes entregas com satisfação das áreas de negócio (Financeiro, Contabilidade, Planejamento, Fiscal, Jurídico), agilizando os processos tanto de TI quanto internos e um ganho expressivo no crescimento e expansão exponencial no Brasil e países Latam de unidades das marcas Smart Fit e Bio Ritmo.
+
+![image](https://github.com/user-attachments/assets/5fb11f4a-eaf5-42ed-aebb-6b83d8774b73)
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
